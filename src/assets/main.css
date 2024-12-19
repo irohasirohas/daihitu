@@ -1,0 +1,115 @@
+@import './base.css';
+
+
+* {
+  box-sizing: border-box;
+}
+div,
+header,
+h1,
+h2,
+p,
+img
+{
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+}
+
+.fs14 {
+  font-size: 12.5px !important;
+}
+
+.innerContents {
+  width: 43%;
+  top: 23%;
+  left: 22.5%;
+  height: 114px;
+}
+
+.left30 {
+  padding-left: 78px;
+  padding-bottom: 0px;
+}
+
+.h225 {
+  height: 225px;
+}
+
+.fbw {
+  -webkit-justify-content: space-between;
+  -moz-justify-content: space-between;
+  justify-content: space-between;
+}
+
+.container {
+  height: 1167px;
+  width: 100%;
+  max-width: 840px;
+  padding: 0 92px 32px 0;
+}
+
+.orange {
+  color: orange;
+}
+
+.red {
+  color: red;
+}
+
+.pink {
+  color: rgb(242, 156, 170);
+}
+
+.purple {
+  color: purple;
+}
+
+.lightblue{
+  color: lightblue;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.green {
+  color: green;
+}
+
+.black {
+  color: #333;
+}
+/* #app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+} */
